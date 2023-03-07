@@ -1,0 +1,15 @@
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\bin\Debug\net6.0\task50.exe
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\bin\Debug\net6.0\task50.deps.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\bin\Debug\net6.0\task50.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\bin\Debug\net6.0\task50.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\refint\task50.dll
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.pdb
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+D:\Разработчик. GeekBrains\3. Знакомство с языками программирования\Семинар 7\DZ7\task50\obj\Debug\net6.0\ref\task50.dll
